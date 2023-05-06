@@ -1,0 +1,10 @@
+random
+numpy
+pickle
+json
+flask
+flask_ngrok
+nltk
+keras
+tkinter
+dlib
